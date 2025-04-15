@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.focusAfterRun": "terminal",
+    "npm.enableRunFromFolder": true,
+    "npm.exclude": "",
+    "npm.includeDirectories": [],
+    "eslint.nodeEnv": "",
+    "prettier.withNodeModules": true
+}
